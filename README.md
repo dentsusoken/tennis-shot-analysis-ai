@@ -31,4 +31,8 @@ Since Colab cannot directly handle data on your computer, you need to upload it 
 
 2) Insufficient memory leading to a usage limit warning:
 When processing extremely large-sized files or a large number of files, there is a possibility of exceeding the specifications of the free-to-use PC. In such cases, please consider performing the processing in smaller batches or exploring other methods.
+
+## License
+[BSD 2](https://opensource.org/license/bsd-2-clause/)
+
   
